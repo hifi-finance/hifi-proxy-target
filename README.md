@@ -1,3 +1,11 @@
-# Hifi Proxy Target [![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![License: LGPL3.0](https://img.shields.io/badge/license-LGPL3.0-yellow.svg)](https://opensource.org/licenses/lgpl-3.0)
+# Hifi Proxy Target has been merged into the [Hifi Monorepo](https://github.com/hifi-finance/hifi)
 
-DSProxy target contract with scripts for the Hifi protocol.
+You can find the latest version of the source code in the
+[hifi-finance/hifi](https://github.com/hifi-finance/hifi) repository, where it will continue to
+be developed.
+
+Please report any bugs to the Hifi Monorepo [issue tracker](https://github.com/hifi-finance/hifi/issues).
+
+The approach we used to merge this repository into a monorepo is described in [this article](https://www.adaltas.com/en/2021/05/21/js-monorepos-merging-git-repositories/).
+
+An archive of the source code before the merge is available [here](../../tree/archive).
